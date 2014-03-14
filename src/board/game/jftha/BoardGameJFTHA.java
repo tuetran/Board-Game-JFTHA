@@ -1,13 +1,5 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package board.game.jftha;
 
-/**
- *
- * @author tue75856
- */
 public class BoardGameJFTHA {
 
     /**

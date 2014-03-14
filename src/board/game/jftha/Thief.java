@@ -1,10 +1,5 @@
-
 package board.game.jftha;
 
-/**
- *
- * @author Tue
- */
 public class Thief extends Hero{
 
     //Constructor
